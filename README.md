@@ -41,10 +41,9 @@ I learn with the motivation to build something great, insha'Allah.
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shahriar-emtiaz-95clickthelink/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
----
 
 ## 📊 GitHub Stats
 <p align="center">
