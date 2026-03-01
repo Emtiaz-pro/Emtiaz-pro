@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Shahriar Emtiaz</h1>
+<h1 align="center">Hi 👋, I'm Shahriar Emtiaz</h1>
 <h3 align="center">Undergrad AIUB, Dept. CSE | AI/ML/DL & Software Development Enthusiast</h3>
 
 <p align="center">
