@@ -47,15 +47,11 @@ I learn with the motivation to build something great, insha'Allah.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emtiaz-pro&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emtiaz-pro&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Learn deeply. Build patiently. Trust the process.”</i>
+  <i>“Gain knowledge. Build patiently. Trust the process.”</i>
 </p>
