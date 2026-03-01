@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shahriar Emtiaz</h1>
-<h3 align="center">Undergraduate CSE Student | IT Services | AI & Systems Enthusiast</h3>
+h1 align="center">Hi 👋, I'm Shahriar Emtiaz</h1>
+<h3 align="center">Undergrad AIUB, Dept. CSE | AI/ML/DL & Software Development Enthusiast</h3>
 
 <p align="center">
-<b>Undergrad:</b> <b>:contentReference[oaicite:0]{index=0}</b><br>
-💡 I learn with the motivation to build something great, insha'Allah.
+I learn with the motivation to build something great, insha'Allah.
 </p>
 
 ---
 
-## ✨ Quote of the Day (Auto Updates Daily)
+## ✨ Quote of the Day:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
@@ -16,26 +15,11 @@
 ---
 
 ## 👤 About Me
-- 🔧 Experience in **IT services & hardware troubleshooting**
-- 🧠 Interested in **AI automation, NLP & computer vision**
-- 💻 Programming with **C++, C#, Python & JavaScript**
-- 🌐 Familiar with **Linux, networking & system fundamentals**
+- 🔧 Experience in **AI/ML Engineering**
+- 🧠 Interested in **AI automation, ML, DL, NLP, Computer vision**
+- 💻 Programming with **C++, Python, JavaScript**
+- 🌐 Familiar with **OS, networking & system fundamentals**
 - 📚 Focused on strong academic and industry foundations
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming
-![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-1f1f1f?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript)
-
-### 🤖 AI / Data
-![NLP](https://img.shields.io/badge/NLP-1f1f1f?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1f1f1f?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-1f1f1f?style=for-the-badge&logo=jupyter)
 
 ---
 
@@ -56,11 +40,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/Emtiaz-pro">
-    <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github">
-  </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin">
+    <img src="https://www.linkedin.com/in/shahriar-emtiaz-95clickthelink/">
   </a>
 </p>
 
