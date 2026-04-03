@@ -2,7 +2,7 @@
 <h3 align="center">Undergrad AIUB, Dept. CSE | AI/ML/DL & Software Development Enthusiast</h3>
 
 <p align="center">
-I learn with the motivation to build something great, insha'Allah.
+I learn with the motivation to build something BIG in the near future, insha'Allah.
 </p>
 
 ---
