@@ -16,8 +16,8 @@ I learn with the motivation to build something BIG in the near future, insha'All
 
 ## 👤 About Me
 - 🔧 Experience in **AI/ML Engineering**
-- 🧠 Interested in **AI automation, ML, DL, NLP, Computer vision**
-- 💻 Programming with **C++, Python, JavaScript**
+- 🧠 Interested in **AI automation, ML, DL, NLP, CVPR, RL**
+- 💻 Programming with **HTML, CSS, C++, Python, JavaScript**
 - 🌐 Familiar with **OS, networking & system fundamentals**
 - 📚 Focused on strong academic and industry foundations
 
